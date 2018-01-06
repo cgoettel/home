@@ -27,7 +27,9 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 - [ ] Replace thermostat?
 
 ### Kitchen
-- [ ] W$ Conduit inside island
+- Island
+  - [ ] W Paint
+  - [ ] W$ Conduit inside island
 - [ ] W$$ Cabinet hardware
   - Do cabinet hardware throughout rest of house? Select rooms?
 
