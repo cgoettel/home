@@ -1,48 +1,52 @@
 # home
 Documentation and to-do items
 
+## Notation
+For project-type work, symbols will precede the work: W stands for weekend (as in a job that can be done in a weekend) and $ stands for cost. Each of these can appear up to three times, or four times to denote serious work (e.g., W$, WW$, W$$$). $ is in the <$50 range, $$ in the $50-100 range, and $$$ is $100+.
+
 ## Inside
-- [ ] Finish replacing bulbs with LEDs
-- [ ] Paint Transformers and Neapolitan rooms
+- [ ] W$ Finish replacing bulbs with LEDs
 - [ ] Finish guest room
   - [ ] Night stands
   - [ ] Lamps?
   - [ ] Chair?
 
 ### Attic
-- [ ] Add flooring around furnace
+- [ ] W$ Add flooring around furnace
 
 ### Baby room
 
 ### Neapolitan room
-- [ ] Paint
+- [ ] WW$$ Paint
 
 ### Garage
-- [ ] LED overhead lights
+- [ ] W$$ LED overhead lights
 
 ### Hallways
-- [ ] Paint
+- [ ] W$$ Paint
 - [ ] Replace thermostat?
 
 ### Kitchen
-- [ ] Conduit inside island
+- [ ] W$ Conduit inside island
+- [ ] W$$ Cabinet hardware
+  - Do cabinet hardware throughout rest of house? Select rooms?
 
 ### Laundry room
-- [ ] Cabinet molding and associated painting
+- [ ] W$ Cabinet molding and associated painting
 
 ### Living room
 - [ ] Piano
 - [ ] Armchair
-- [ ] Remove media console
+- [ ] W Remove media console
 - [ ] Figure out what to do with built-in media console
-- [ ] Touch up paint
-- [ ] Consolidate light switches by kitchen
+- [ ] W$ Touch up paint
+- [ ] W Consolidate light switches by kitchen
 
 ### Master bathroom
-- Toilet seat missing a nut
+- W$ Toilet seat missing a nut
 - Shower
-- [ ] Replace shower with tile
-- [ ] Exhaust fan (replace light with it?)
+  - [ ] Replace shower with tile
+  - [ ] Exhaust fan (replace light with it?)
 
 ### Master bedroom
 - [ ] Night stand
