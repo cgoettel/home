@@ -9,6 +9,9 @@ Documentation and to-do items
   - [ ] Lamps?
   - [ ] Chair?
 
+### Attic
+- [ ] Add flooring around furnace
+
 ### Baby room
 
 ### Neapolitan room
@@ -16,6 +19,13 @@ Documentation and to-do items
 
 ### Garage
 - [ ] LED overhead lights
+
+### Hallways
+- [ ] Paint
+- [ ] Replace thermostat?
+
+### Kitchen
+- [ ] Conduit inside island
 
 ### Laundry room
 - [ ] Cabinet molding and associated painting
@@ -25,14 +35,19 @@ Documentation and to-do items
 - [ ] Armchair
 - [ ] Remove media console
 - [ ] Figure out what to do with built-in media console
+- [ ] Touch up paint
+- [ ] Consolidate light switches by kitchen
 
 ### Master bathroom
-#### Shower
+- Toilet seat missing a nut
+- Shower
 - [ ] Replace shower with tile
+- [ ] Exhaust fan (replace light with it?)
 
 ### Master bedroom
 - [ ] Night stand
 - [ ] Chair for desk?
+- [ ] Light switch
 
 ### Office
 - [ ] Organize (shouldn't have to keep door closed all the time)
@@ -41,6 +56,7 @@ Documentation and to-do items
 ### Transformers room
 - [ ] Make this the guest room?
 - [ ] Paint
+- [ ] Closet door latch
 
 ## Outside
 - [ ] Redo landscaping lights
@@ -49,6 +65,7 @@ Documentation and to-do items
 - [ ] Fix front landscaping from tree removal
 - [ ] Side gate latch replacement
 - [ ] Tree(s) (fruit trees?) to shade front room
+- [ ] Fix concrete on driveway
 
 ### Back yard
 - [ ] What are we doing with the deck?
