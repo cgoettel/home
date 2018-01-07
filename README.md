@@ -6,6 +6,7 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 
 ## Inside
 - [ ] W$ Finish replacing bulbs with LEDs
+- [ ] W Fix faucets
 - [ ] Finish guest room
   - [ ] Night stands
   - [ ] Lamps?
@@ -32,15 +33,20 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
   - [ ] W$ Conduit inside island
 - [ ] W$$ Cabinet hardware
   - Do cabinet hardware throughout rest of house? Select rooms?
+- [ ] W$ Fix drawers
+- [ ] $$?$? Replace drawer slides
+- [ ] WW?$ Convert cabinet into garbage and recycling drawer
 
 ### Laundry room
 - [ ] W$ Cabinet molding and associated painting
 
 ### Living room
+- [ ] W$$ LED can lights
 - [ ] Piano
 - [ ] Armchair
 - [ ] W Remove media console
 - [ ] Figure out what to do with built-in media console
+  - [ ] W$$ Cover gaping hole (swivel mount?)
 - [ ] W$ Touch up paint
 - [ ] W Consolidate light switches by kitchen
 
