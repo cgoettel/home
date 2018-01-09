@@ -37,7 +37,7 @@ e             |                                     |       |
 ## Legend
 | Symbol | Meaning |
 | ------ | ------- |
-| 1      | Unidentified tree* &mdash; I think it's some sort of Crabapple. |
+| 1      | Unidentified tree* &mdash; Crapemyrtle?. |
 | b      | Washington Hawthorn                                             |
 | c      | Compost heap                                                    |
 | F      | Thinking about putting the fire pit here                        |
