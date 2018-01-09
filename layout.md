@@ -6,31 +6,30 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 ```
 <-N
 |-------Back fence------------------------------------------|
-| 1 1 1 1 p b r        xxxxxxxxxxxx   cc      w o    T      |
-| 1       p b r                             w w o      e    |
-S 1                                                         |
+| 1 1 1 1 p b r        xxxx    xxxx   cc      w o    T      |
+| 1       p b r        xxxx    xxxx         w w o      e    |
+S 1                    xxxx    xxxx                         |
 i                                                  F        |
 d                                                           |
 e                                                           |
 |                         |---Deck----------|               |
 f                         |                 |               |
 e                         |                 |               |
-n                 |--House--------------------------|       |
-e                 |                                 |       |
-|                 |                                 |       |
-|                 |                                 |       |
-|                 |                                 |       |
-|                 |                                 |       |
-|             ____|                                 |       |
-|             |                                     |       |
+n                   |--House------------------------|       |
+e                   |                            f  |       |
+|                   |                               |       |
+|                   |                               |       |
+|                   |f                              |       |
+|                   |                               |       |
+|                   |                               |       |
+|                   |                               |       |
+|             ______|                               |       |
 |----Gate-----|                                     |       |
-              |                                     |       |
-              |                                     |       |
               |                                     |       |
               |                      __             |-------|
               |                     |  |            |
               |                     |  |            |
-              |                     |  |____________|
+              |                     |  |_______f____|
               |_____________________|
 ```
 
@@ -41,10 +40,15 @@ e                 |                                 |       |
 | b      | Washington Hawthorn                                             |
 | c      | Compost heap                                                    |
 | F      | Thinking about putting the fire pit here                        |
+| f      | Faucets                                                         |
 | o      | White Flowering Dogwood                                         |
 | p      | Sargent Crabapple                                               |
 | r      | Crapemyrtle                                                     |
 | T      | Old growth tree*                                                |
 | w      | American Redbud                                                 |
 | x      | Raised garden bed                                               |
+
 *&ast; Here when I moved in.*
+
+## Raised garden beds
+So far, only the southern raised bed exists, but the initial design allows for another identical bed to go just north of it.
