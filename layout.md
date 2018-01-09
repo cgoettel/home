@@ -5,32 +5,32 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 
 ```
 <-N
-|-------Back fence------------------------------------------|
-| 1 1 1 1 p b r        xxxx    xxxx   cc      w o    T      |
-| 1       p b r        xxxx    xxxx         w w o      e    |
-S 1                    xxxx    xxxx                         |
-i                                                  F        |
-d                                                           |
-e                                                           |
-|                         |---Deck----------|               |
-f                         |                 |               |
-e                         |                 |               |
-n                   |--House------------------------|       |
-e                   |                            f  |t      |
-|                   |                               |t      |
-|                   |                               |t      |
-|                   |f                              |       |
-|                   |                               |       |
-|                   |                               |       |
-|                   |                               |       |
-|             ______|                               |       |
-|----Gate-----|                                     |       |
-              |                                     |       |
-              |                      __             |-------|
-              |                     |  |            |
-              |                     |  |            |
-              |                     |  |_______f____|
-              |_____________________|
+|-------Back fence---------------------------------|
+| 1 1 1 1 p b r   xxxx   xxxx   cc   w o    T      |
+| 1       p b r   xxxx   xxxx      w w o      e    |
+S 1               xxxx   xxxx                      |
+i                                                  |
+d                                           F      |
+e                                                  |
+|                |---Deck----------|               |
+f                |                 |               |
+e                |                 |               |
+n          |--House------------------------|       |
+e          |                            f  |t      |
+|          |                               |t      |
+|          |                               |t      |
+|          |f                              |       |
+|          |                               |       |
+|          |                               |       |
+|          |                               |       |
+|    ______|                               |       |
+|Gate|                                     |       |
+     |                                     |       |
+     |                      __             |-------|
+     |                     |  |            |
+     |                     |  |            |
+     |                     |  |_______f____|
+     |_____________________|
 ```
 
 ## Legend
