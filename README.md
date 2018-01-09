@@ -16,6 +16,7 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 - [ ] W$ Add flooring around furnace
 
 ### Baby room
+- [ ] W$? Paint ceiling
 
 ### Neapolitan room
 - [ ] WW$$ Paint
