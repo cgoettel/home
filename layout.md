@@ -16,9 +16,9 @@ e                                                           |
 f                         |                 |               |
 e                         |                 |               |
 n                   |--House------------------------|       |
-e                   |                            f  |       |
-|                   |                               |       |
-|                   |                               |       |
+e                   |                            f  |t      |
+|                   |                               |t      |
+|                   |                               |t      |
 |                   |f                              |       |
 |                   |                               |       |
 |                   |                               |       |
@@ -34,19 +34,21 @@ e                   |                            f  |       |
 ```
 
 ## Legend
-| Symbol | Meaning |
-| ------ | ------- |
+| Symbol | Meaning                                  |
+| ------ | ---------------------------------------- |
 | 1      | Unidentified tree* &mdash; Crapemyrtle?. |
-| b      | Washington Hawthorn                                             |
-| c      | Compost heap                                                    |
-| F      | Thinking about putting the fire pit here                        |
-| f      | Faucets                                                         |
-| o      | White Flowering Dogwood                                         |
-| p      | Sargent Crabapple                                               |
-| r      | Crapemyrtle                                                     |
-| T      | Old growth tree*                                                |
-| w      | American Redbud                                                 |
-| x      | Raised garden bed                                               |
+| b      | Washington Hawthorn                      |
+| c      | Compost heap                             |
+| e      | Electrical utility box                   |
+| F      | Thinking about putting the fire pit here |
+| f      | Faucets                                  |
+| o      | White Flowering Dogwood                  |
+| p      | Sargent Crabapple                        |
+| r      | Crapemyrtle                              |
+| T      | Old growth tree*                         |
+| t      | Transformers for landscape lights        |
+| w      | American Redbud                          |
+| x      | Raised garden bed                        |
 
 *&ast; Here when I moved in.*
 
