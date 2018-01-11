@@ -18,11 +18,9 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 ### Baby room
 - [ ] W$? Paint ceiling
 
-### Neapolitan room
-- [ ] WW$$ Paint
-
 ### Garage
 - [ ] W$$ LED overhead lights
+- [ ] Drill out deadbolt hole
 
 ### Hallways
 - [ ] W$$ Paint
@@ -62,7 +60,12 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 - [ ] Chair for desk?
 - [ ] Light switch
 
+### Neapolitan room
+- [ ] WW$$ Paint
+- [ ] Wainscoting?
+
 ### Office
+- [ ] Drill out deadbolt hole
 - [ ] Organize (shouldn't have to keep door closed all the time)
 - [ ] Get computer case with air filter
 
