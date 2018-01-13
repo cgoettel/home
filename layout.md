@@ -7,26 +7,36 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 
 ## Layouts
 ### Legend
-| Symbol | Meaning                                 |
-| ------ | --------------------------------------- |
-| 1      | Unidentified tree* &mdash; Crapemyrtle? |
-| A      | Apple tree (different varieties)        |
-| b      | Washington Hawthorn                     |
-| c      | Compost heap                            |
-| e      | Electrical utility box                  |
-| F      | Fire pit                                |
-| f      | Faucets                                 |
-| o      | White Flowering Dogwood                 |
-| P      | Peach tree                              |
-| p      | Sargent Crabapple                       |
-| r      | Crapemyrtle                             |
-| S      | Saskatoon berry trees                   |
-| s      | Shade tree(s?)                          |
-| T      | Old growth tree*                        |
-| t      | Transformers for landscape lights       |
-| u      | Unknown                                 |
-| w      | American Redbud                         |
-| x      | Raised garden bed                       |
+| Symbol | Meaning                 |
+| ------ | ----------------------- |
+| A      | Apple tree              |
+| a      | Azalea                  |
+| B      | Bamboo                  |
+| b      | Boxwood                 |
+| C      | Crape myrtle            |
+| c      | Compost heap            |
+| E      | Spruce Evergreen        |
+| e      | Electrical utility box  |
+| F      | Fire pit                |
+| f      | Faucets                 |
+| H      | Holly                   |
+| h      | Hydrangea               |
+| j      | Japanese maple          |
+| k      | Knockout Roses          |
+| n      | Nandina                 |
+| o      | White Flowering Dogwood |
+| P      | Peach tree              |
+| p      | Sargent Crabapple       |
+| R      | Rose of Sharon          |
+| r      | American Redbud         |
+| S      | Saskatoon berry trees   |
+| s      | Shade tree(s?)          |
+| T      | Old growth tree*        |
+| t      | Transformers            |
+| u      | Unknown                 |
+| w      | Washington Hawthorn     |
+| x      | Raised garden bed       |
+| y      | Japanese yew shrub      |
 
 *&ast; Here when I moved in.*
 
@@ -34,66 +44,66 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 ```
 <-N
 |-------Back fence---------------------------------|
-| 1  1  1  1 b r                 cc p w o      T   |
-| 1          b r                    w w o        e |
-| 1                                                |
+| C C C C C  w C                 cc p r o      T   |
+| C          w C                    r r o        e |
+| C                                                |
 |                                                  |
 |                                                  |
 |                                                  |
 | u                                                |
-|                                                  |
-|                |---Deck----------|               |
-|                |                 |               |
-|                |                 |               |
+|                   n  R  n   /\a                  |
+|              y    n     n  /  \a B               |
+|           j y E|---Deck----------| k             |
+|           yyaaH|                 | R k k         |
 |          |--House------------------------|       |
 |          |                            f  |t      |
-|          |                               |t      |
-|          |                               |t      |
-|          |f                              |       |
-|          |                               |       |
-|          |                               |       |
+|         h|                               |t      |
+|         h|                               |t      |
+|         h|f                              |       |
+|         h|                               |       |
+|         h|                               |       |
 |          |                               |       |
 |          |                               |       |
 |Gate|-----|                               |       |
      |                                     |       |
      |                      __             |-------|
-     |                     |  |            |
-     |                     |  |            |
+     |                     | u|            |
+     |                     | j |            |
      |                     |  |_______f____|
-     |_____________________|
+     |_____________________|      bbb    R
 ```
 
 ### Planned layout
 ```
 <-N
 |-------Back fence---------------------------------|
-| S  S  S  S b r   xxxx   xxxx   xxxx   p w o      |
-| S          b r   xxxx   xxxx   xxxx   w w o   e  |
+| S S S S S  w C   xxxx   xxxx   xxxx   p r o      |
+| S          w C   xxxx   xxxx   xxxx   r r o   e  |
 | S                xxxx   xxxx   xxxx              |
 |                  xxxx   xxxx   xxxx        |-----|
 |                                            |  P  |
 |      F                                     |     |
-| u                                          |-----|
-|                                              | A |
-|                |---Deck----------|           |---|
-|                |                 |           | A |
-|                |                 |           |---|
+|                                            |-----|
+|                   n  R  n   /\aa             | A |
+|              y    n     n  /  \ B            |---|
+|           j y E|---Deck----------| k         | A |
+|           yyaaH|                 | R k k     |---|
 |          |--House------------------------|       |
 |          |                            f  |t      |
-|          |                               |t      |
-|          |                               |t      |
-|          |f                              |       |
-|          |                               |       |
-|          |                               |       |
+|         h|                               |t      |
+|         h|                               |t      |
+|         h|f                              |       |
+|         h|                               |       |
+|         h|                               |       |
 |          |                               |       |
 |          |                               |       |
 |Gate|-----|                               |       |
      |                                     |       |
      |                      __             |-------|
-     |                     |  |            |
-     |                     |  |            |
+     |                     | u|            |
+     |                     | j|            |
      |                     |  |_______f____|
-     |_____________________|
+     |_____________________|      bbb    R
 
                                       s
                                      s s
