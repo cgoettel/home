@@ -19,7 +19,7 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 - [ ] W$? Paint ceiling
 
 ### Garage
-- [ ] W$$ LED overhead lights
+- [ ] W$$ LED overhead lights (buy one for laundry room, too)
 - [ ] Drill out deadbolt hole
 
 ### Hallways
@@ -38,6 +38,7 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 
 ### Laundry room
 - [ ] W$ Cabinet molding and associated painting
+- [ ] W$$ LED lighting
 
 ### Living room
 - [ ] W$$ LED can lights

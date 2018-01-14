@@ -15,6 +15,7 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 | b      | Boxwood                 |
 | C      | Crape myrtle            |
 | c      | Compost heap            |
+| d      | White Flowering Dogwood |
 | E      | Spruce Evergreen        |
 | e      | Electrical utility box  |
 | F      | Fire pit                |
@@ -24,7 +25,6 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 | j      | Japanese maple          |
 | k      | Knockout Roses          |
 | n      | Nandina                 |
-| o      | White Flowering Dogwood |
 | P      | Peach tree              |
 | p      | Sargent Crabapple       |
 | R      | Rose of Sharon          |
@@ -44,8 +44,8 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 ```
 <-N
 |-------Back fence---------------------------------|
-| C C C C C  w C                 cc p r o      T   |
-| C          w C                    r r o        e |
+| C C C C C  w C                 cc p r d      T   |
+| C          w C                    r r d        e |
 | C                                                |
 |                                                  |
 |                                                  |
@@ -53,9 +53,9 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 | u                                                |
 |                   n  R  n   /\a                  |
 |              y    n     n  /  \a B               |
-|           j y E|---Deck----------| k             |
-|           yyaaH|                 | R k k         |
-|          |--House------------------------|       |
+|           j y E|---Deck----    --| k             |
+|           yyaaH|           \  /  | R k k         |
+|          |--House-----------\/-----------|       |
 |          |                            f  |t      |
 |         h|                               |t      |
 |         h|                               |t      |
@@ -68,7 +68,7 @@ While the layout intends to be mostly to scale, the far east end of the yard may
      |                                     |       |
      |                      __             |-------|
      |                     | u|            |
-     |                     | j |            |
+     |                     | j|            |
      |                     |  |_______f____|
      |_____________________|      bbb    R
 ```
@@ -77,8 +77,8 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 ```
 <-N
 |-------Back fence---------------------------------|
-| S S S S S  w C   xxxx   xxxx   xxxx   p r o      |
-| S          w C   xxxx   xxxx   xxxx   r r o   e  |
+| S S S S S  w C   xxxx   xxxx   xxxx   p r d      |
+| S          w C   xxxx   xxxx   xxxx   r r d   e  |
 | S                xxxx   xxxx   xxxx              |
 |                  xxxx   xxxx   xxxx        |-----|
 |                                            |  P  |
@@ -86,8 +86,8 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 |                                            |-----|
 |                   n  R  n   /\aa             | A |
 |              y    n     n  /  \ B            |---|
-|           j y E|---Deck----------| k         | A |
-|           yyaaH|                 | R k k     |---|
+|           j y E|---Deck----\  /--| k         | A |
+|           yyaaH|            \/   | R k k     |---|
 |          |--House------------------------|       |
 |          |                            f  |t      |
 |         h|                               |t      |
