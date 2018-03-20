@@ -9,7 +9,6 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 ### Legend
 | Symbol | Meaning                 |
 | ------ | ----------------------- |
-| A      | Apple tree              |
 | a      | Azalea                  |
 | B      | Bamboo                  |
 | b      | Boxwood                 |
@@ -27,6 +26,7 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 | n      | Nandina                 |
 | P      | Peach tree              |
 | p      | Sargent Crabapple       |
+| pe     | Pear tree               |
 | R      | Rose of Sharon          |
 | r      | American Redbud         |
 | S      | Saskatoon berry trees   |
@@ -44,17 +44,17 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 ```
 <-N
 |-------Back fence---------------------------------|
-| C C C C C  w C                 cc p r d      T   |
-| C          w C                    r r d        e |
-| C                                                |
-|                                                  |
-|                                                  |
-|                                                  |
-| u                                                |
-|                   n  R  n   /\a                  |
-|              y    n     n  /  \a B               |
-|           j y E|---Deck----    --| k             |
-|           yyaaH|           \  /  | R k k         |
+| S S S S S  w C   xxxx   xxxx   xxxx   p r d T    |
+| S          w C   xxxx   xxxx   xxxx   r r d   e  |
+| S                xxxx   xxxx   xxxx              |
+|                  xxxx   xxxx   xxxx        |-----|
+|                                            |  P  |
+|      F                                     |     |
+|                                            |-----|
+|u                  n  R  n   /\aa             | pe|
+|              y    n     n  /  \ B            |---|
+|           j y E|---Deck----\  /--| k         | pe|
+|           yyaaH|            \/   | R k k     |---|
 |          |--House-----------\/-----------|       |
 |          |                            f  |t      |
 |         h|                               |t      |
@@ -110,9 +110,11 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 ```
 
 ## Plans
-- Raised garden beds
-  - Two southern beds (only one the first year) for vegetables
-  - Northern bed for blackberries and other berries
-- Trees
-  - Peach
-  - Apple (x2)
+- [x] Raised garden beds
+  - [x] Two southern beds for vegetables
+  - [x] Northern bed for blackberries and other berries
+- [ ] Trees
+  - [ ] Peach
+  - [ ] Pear (x2)
+  - [ ] Remove old growth tree
+- [ ] Remove unidentified plant on north side
