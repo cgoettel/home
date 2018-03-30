@@ -5,8 +5,8 @@ Documentation and to-do items
 For project-type work, symbols will precede the work: W stands for weekend (as in a job that can be done in a weekend) and $ stands for cost. Each of these can appear up to three times, or four times to denote serious work (e.g., W$, WW$, W$$$). $ is in the <$50 range, $$ in the $50-100 range, and $$$ is $100+.
 
 ## Inside
-- [x] W$ Finish replacing bulbs with LEDs
-- [x] W Fix faucets
+- [ ] W$ Finish replacing bulbs with LEDs
+- [ ] W Fix faucets
 - [ ] Finish guest room
   - [ ] Night stands
   - [ ] Lamps?
@@ -24,7 +24,7 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 
 ### Hallways
 - [ ] W$$ Paint
-- [x] Replace thermostat -- Nest Thermostat E
+- [ ] Replace thermostat?
 
 ### Kitchen
 - Island
@@ -43,7 +43,7 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 ### Living room
 - [ ] W$$ LED can lights
 - [ ] Piano
-- [x] Armchair
+- [ ] Armchair
 - [ ] W Remove media console
 - [ ] Figure out what to do with built-in media console
   - [ ] W$$ Cover gaping hole (swivel mount?)
@@ -51,7 +51,7 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 - [ ] W Consolidate light switches by kitchen
 
 ### Master bathroom
-- [ ] W$ Toilet seat missing a nut
+- W$ Toilet seat missing a nut
 - Shower
   - [ ] Replace shower with tile
   - [ ] Exhaust fan (replace light with it?)
@@ -79,10 +79,11 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 - [ ] Redo landscaping lights
 
 ### Front yard
-- [ ] Fix front landscaping from tree removal
-- [ ] Side gate latch replacement
-- [x] Cane bolt on side gate
-- [ ] Tree(s) to shade front room
+- [x] Fix front landscaping from tree removal
+- Side gate
+  - [x] Add cane bolt
+  - [ ] Replace latch
+- [ ] Tree to shade front room - bought 2018-03-29
 - [ ] Fix concrete on driveway
 
 ### Back yard
@@ -93,12 +94,12 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
     - [ ] Top is warped
     - [ ] Remove fan or run conduit for proper power
 - [ ] Bury furnace overflow pipe on N in French drain
-  - [ ] Call before you dig
-- [ ] Replace plants on N
+  - Call before you dig
 - [ ] Replace fence post N and E
-- [x] Raised garden bed
-- [ ] Fruit trees
-- [x] Fire pit?
-- [ ] Wood pile
-- [x] Get old growth tree assessed
-- [ ] Remove old growth tree
+- [x] Raised garden beds
+- [x] Fruit trees
+- [x] Fire pit
+  - [x] Wood pile
+- Old growth tree
+  - [x] Assess
+  - [ ] Remove

@@ -1,9 +1,7 @@
 # Garden and tree layout plan
-The backyard has many plants in it. This document is designed to explain what everything is, but is also for planning what should go where in the yard. To this end, there are two layouts: existing and planned.
+The yard has many plants in it. This document is designed to explain what everything is, but is also for planning so there are two layouts: existing and planned.
 
-There are many plants that were already present when I moved in which I don't intend to identify. However, new plants that I put in will be documented.
-
-While the layout intends to be mostly to scale, the far east end of the yard may be elongated in order to better show the individual plants.
+There are many plants that were already present when I moved in which I don't intend to identify (most are, though). However, new plants that I put in will be documented.
 
 ## Layouts
 ### Legend
@@ -12,28 +10,32 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 | a      | Azalea                  |
 | B      | Bamboo                  |
 | b      | Boxwood                 |
-| C      | Crape myrtle            |
 | c      | Compost heap            |
 | d      | White Flowering Dogwood |
 | E      | Spruce Evergreen        |
 | e      | Electrical utility box  |
 | F      | Fire pit                |
-| f      | Faucets                 |
+| f      | Faucet                  |
 | H      | Holly                   |
 | h      | Hydrangea               |
 | j      | Japanese maple          |
-| k      | Knockout Roses          |
+| K      | Kieffer pear tree       |
+| k      | Knockout roses          |
+| M      | Moonglow pear tree      |
+| N      | Navaho blackberry       |
 | n      | Nandina                 |
-| P      | Peach tree              |
+| Pe     | Elberta peach           |
+| Pb     | Belle of Georgia peach  |
 | p      | Sargent Crabapple       |
-| pe     | Pear tree               |
 | R      | Rose of Sharon          |
 | r      | American Redbud         |
 | S      | Saskatoon berry trees   |
 | s      | Shade tree(s?)          |
 | T      | Old growth tree*        |
+| Tu     | Tuliptree               |
 | t      | Transformers            |
 | u      | Unknown                 |
+| W      | Wood pile               |
 | w      | Washington Hawthorn     |
 | x      | Raised garden bed       |
 | y      | Japanese yew shrub      |
@@ -44,16 +46,16 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 ```
 <-N
 |-------Back fence---------------------------------|
-| S S S S S  w C   xxxx   xxxx   xxxx   p r d T    |
-| S          w C   xxxx   xxxx   xxxx   r r d   e  |
-| S                xxxx   xxxx   xxxx              |
-|                  xxxx   xxxx   xxxx        |-----|
-|                                            |  P  |
-|      F                                     |     |
+|            w C   NN  xx  xx       p r d      T   |
+|    Pe      w C   NN  xx  xx       r r d    Pb  e |
+|                  NN  xx  xx                      |
+|                  xx  xx  xx                |-----|
+|W                                           |  K  |
+|W     F                                     |     |
 |                                            |-----|
-|u                  n  R  n   /\aa             | pe|
-|              y    n     n  /  \ B            |---|
-|           j y E|---Deck----\  /--| k         | pe|
+|                   n  R  n   /\aa             |   |
+|              y    n     n  /  \ B            | M |
+|           j y E|---Deck----\  /--| k         |   |
 |           yyaaH|            \/   | R k k     |---|
 |          |--House-----------\/-----------|       |
 |          |                            f  |t      |
@@ -69,7 +71,7 @@ While the layout intends to be mostly to scale, the far east end of the yard may
      |                      __             |-------|
      |                     | u|            |
      |                     | j|            |
-     |                     |  |_______f____|
+     |                     |  |__f_________|
      |_____________________|      bbb    R
 ```
 
@@ -77,18 +79,18 @@ While the layout intends to be mostly to scale, the far east end of the yard may
 ```
 <-N
 |-------Back fence---------------------------------|
-| S S S S S  w C   xxxx   xxxx   xxxx   p r d      |
-| S          w C   xxxx   xxxx   xxxx   r r d   e  |
-| S                xxxx   xxxx   xxxx              |
-|                  xxxx   xxxx   xxxx        |-----|
-|                                            |  P  |
-|      F                                     |     |
+|            w C   NN  xx  xx       p r d      T   |
+|    Pe      w C   NN  xx  xx       r r d    Pb  e |
+|                  NN  xx  xx                      |
+|                  xx  xx  xx                |-----|
+|W                                           |  K  |
+|W     F                                     |     |
 |                                            |-----|
-|                   n  R  n   /\aa             | A |
-|              y    n     n  /  \ B            |---|
-|           j y E|---Deck----\  /--| k         | A |
+|                   n  R  n   /\aa             |   |
+|              y    n     n  /  \ B            | M |
+|           j y E|---Deck----\  /--| k         |   |
 |           yyaaH|            \/   | R k k     |---|
-|          |--House------------------------|       |
+|          |--House-----------\/-----------|       |
 |          |                            f  |t      |
 |         h|                               |t      |
 |         h|                               |t      |
@@ -102,19 +104,19 @@ While the layout intends to be mostly to scale, the far east end of the yard may
      |                      __             |-------|
      |                     | u|            |
      |                     | j|            |
-     |                     |  |_______f____|
+     |                     |  |__f_________|
      |_____________________|      bbb    R
 
-                                      s
-                                     s s
+
+                                    Tu
 ```
 
 ## Plans
 - [x] Raised garden beds
   - [x] Two southern beds for vegetables
-  - [x] Northern bed for blackberries and other berries
-- [ ] Trees
-  - [ ] Peach
-  - [ ] Pear (x2)
-  - [ ] Remove old growth tree
-- [ ] Remove unidentified plant on north side
+  - [x] Northern bed for blackberries
+- [x] Trees
+  - [x] Peach
+  - [x] Pear (x2)
+- [ ] Shade tree for front yard. Tuliptree purchased 2018-03-29.
+- [ ] Saskatoon berry bushes. No clue where now that the peach tree is in the northeast corner.
