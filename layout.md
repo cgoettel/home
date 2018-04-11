@@ -7,6 +7,7 @@ There are many plants that were already present when I moved in which I don't in
 ### Legend
 | Symbol | Meaning                 |
 | ------ | ----------------------- |
+| 1-2    | Garden beds, see below  |
 | a      | Azalea                  |
 | B      | Bamboo                  |
 | b      | Boxwood                 |
@@ -37,7 +38,7 @@ There are many plants that were already present when I moved in which I don't in
 | u      | Unknown                 |
 | W      | Wood pile               |
 | w      | Washington Hawthorn     |
-| x      | Raised garden bed       |
+| x      | Garden beds, see below  |
 | y      | Japanese yew shrub      |
 
 *&ast; Here when I moved in.*
@@ -46,10 +47,10 @@ There are many plants that were already present when I moved in which I don't in
 ```
 <-N
 |-------Back fence---------------------------------|
-|            w C   NN  xx  xx       p r d      T   |
-|    Pe      w C   NN  xx  xx       r r d    Pb  e |
-|                  NN  xx  xx                      |
-|                  xx  xx  xx                |-----|
+|            w C   NN  11  22       p r d      T   |
+|    Pe      w C   NN  11  22       r r d    Pb  e |
+|                  NN  11  22                      |
+|                  xx  11  22                |-----|
 |W                                           |  K  |
 |W     F                                     |     |
 |                                            |-----|
@@ -79,10 +80,10 @@ There are many plants that were already present when I moved in which I don't in
 ```
 <-N
 |-------Back fence---------------------------------|
-|            w C   NN  xx  xx       p r d      T   |
-|    Pe      w C   NN  xx  xx       r r d    Pb  e |
-|                  NN  xx  xx                      |
-|                  xx  xx  xx                |-----|
+|            w C   NN  11  22       p r d      T   |
+|    Pe      w C   NN  11  22       r r d    Pb  e |
+|                  NN  11  22                      |
+|                  xx  11  22                |-----|
 |W                                           |  K  |
 |W     F                                     |     |
 |                                            |-----|
@@ -120,3 +121,29 @@ There are many plants that were already present when I moved in which I don't in
   - [x] Pear (x2)
 - [ ] Shade tree for front yard. Tuliptree purchased 2018-03-29.
 - [ ] Saskatoon berry bushes. No clue where now that the peach tree is in the northeast corner.
+
+## Garden beds
+This section outlines the layout of the garden beds. Our purpose here is to keep a multi-year record for the sake of crop rotation.
+
+We'll start with the northern-most vegetable bed and work our way south through the other beds. There are currently three beds, the northern-most being blackbery bushes. The numbers used below can be seen in the above layouts.
+
+### Raised bed 1
+- Anaheim, habanero, tomatillo
+- Big Bertha x3
+- Big Bertha x3
+- Yellow onion x6
+- Yellow squash x3
+- Yellow squash x3
+- Zucchini x4
+- Zucchini x4
+- Zucchini x4
+
+### Raised bed 2
+- Roma x3
+- Roma x3
+- Lemon tomato, lemon tomato, heirloom tomato
+- Yellow onion x6
+- Serrano x3
+- Serrano x3
+- Yellow squash x3
+- Yellow squash x3
