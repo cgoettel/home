@@ -141,7 +141,7 @@ We'll start with the northern-most vegetable bed and work our way south through 
 ### Raised bed 2
 - Roma x3
 - Roma x3
-- Lemon tomato, lemon tomato, heirloom tomato
+- Tomato lemon boy, tomato lemon boy, tomato Arkansas traveler
 - Yellow onion x6
 - Serrano x3
 - Serrano x3
