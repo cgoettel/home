@@ -5,12 +5,8 @@ Documentation and to-do items
 For project-type work, symbols will precede the work: W stands for weekend (as in a job that can be done in a weekend) and $ stands for cost. Each of these can appear up to three times, or four times to denote serious work (e.g., W$, WW$, W$$$). $ is in the <$50 range, $$ in the $50-100 range, and $$$ is $100+.
 
 ## Inside
-- [ ] W$ Finish replacing bulbs with LEDs
-- [ ] W Fix faucets
-- [ ] Finish guest room
-  - [ ] Night stands
-  - [ ] Lamps?
-  - [ ] Chair?
+- [x] W$ Finish replacing bulbs with LEDs
+- [x] W Fix faucets
 
 ### Attic
 - [ ] W$ Add flooring around furnace
@@ -22,9 +18,17 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 - [ ] W$$ LED overhead lights (buy one for laundry room, too)
 - [ ] Drill out deadbolt hole
 
+### Neapolitan room
+- [ ] WW$$ Paint
+- [ ] Wainscoting?
+- [ ] Finish guest room
+  - [ ] Night stands
+  - [ ] Lamps?
+  - [ ] Chair?
+
 ### Hallways
 - [ ] W$$ Paint
-- [ ] Replace thermostat?
+- [x] Replace thermostat
 
 ### Kitchen
 - Island
@@ -46,12 +50,12 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 - [ ] Armchair
 - [ ] W Remove media console
 - [ ] Figure out what to do with built-in media console
-  - [ ] W$$ Cover gaping hole (swivel mount?)
+  - [x] W$$ Cover gaping hole (swivel mount)
 - [ ] W$ Touch up paint
 - [ ] W Consolidate light switches by kitchen
 
 ### Master bathroom
-- W$ Toilet seat missing a nut
+- [ ] W$ Toilet seat missing a nut
 - Shower
   - [ ] Replace shower with tile
   - [ ] Exhaust fan (replace light with it?)
@@ -59,19 +63,14 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 ### Master bedroom
 - [ ] Night stand
 - [ ] Chair for desk?
-- [ ] Light switch
-
-### Neapolitan room
-- [ ] WW$$ Paint
-- [ ] Wainscoting?
+- [ ] Light switch by bathroom
 
 ### Office
 - [ ] Drill out deadbolt hole
-- [ ] Organize (shouldn't have to keep door closed all the time)
+- [ ] Move to Transformers room
 - [ ] Get computer case with air filter
 
 ### Transformers room
-- [ ] Make this the guest room?
 - [ ] Paint
 - [ ] Closet door latch
 
@@ -83,7 +82,7 @@ For project-type work, symbols will precede the work: W stands for weekend (as i
 - Side gate
   - [x] Add cane bolt
   - [ ] Replace latch
-- [ ] Tree to shade front room - bought 2018-03-29
+- [x] Tree to shade front room - bought 2018-03-29
 - [ ] Fix concrete on driveway
 
 ### Back yard
